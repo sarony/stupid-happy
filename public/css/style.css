@@ -8,16 +8,19 @@ h1 {
   font-family: "Rock Salt"; 
 /*  color: #474346;
 */  color: #fcf5f0;
+  font-size: 4em;
+  margin-left: -80px;
+  margin-bottom: 0;
 }
 
 h2 {
   font-family: "Pontano Sans";
   font-weight: 500;
-  font-size: 1.2em;
+  font-size: 1.5em;
   padding-left: 20px;
   margin: 10px;
 /*  color: #474346;
-*/  color: white;
+*/  color: #fdebd4;
 }
 
 h3 {
@@ -37,12 +40,13 @@ h3.signature {
 body {
   margin: 120px 200px;
   width: 100%;
-  background-image: -o-linear-gradient(bottom, rgb(255, 255, 255) 24%, rgb(0, 0, 0) 62%);
+  background: #febf6d;
+  /*  background-image: -o-linear-gradient(bottom, rgb(255, 255, 255) 24%, rgb(0, 0, 0) 62%);
   background-image: -ms-radial-gradient(bottom right, ellipse farthest-corner, #f6791e 0%, #f4ceb3 100%);
   background-image: -moz-radial-gradient(bottom right, ellipse farthest-corner, #f6791e 0%, #f4ceb3 100%);
   background-image: -o-radial-gradient(bottom right, ellipse farthest-corner, #f6791e 0%, #f4ceb3 100%);
   background-image: -webkit-gradient(radial, bottom right, 0, bottom right, 553, color-stop(0, #f6791e), color-stop(1, #f4ceb3));
   background-image: -webkit-radial-gradient(bottom right, ellipse farthest-corner, #f6791e 0%, #f4ceb3 100%);
   background-image: radial-gradient(ellipse farthest-corner at bottom right, #f6791e 0%, #f4ceb3 100%);
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;*/
 }
