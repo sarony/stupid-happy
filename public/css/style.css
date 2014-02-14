@@ -48,12 +48,13 @@ body {
   margin: 120px 200px;
   width: 100%;
   background: #febf6d;
-    background-image: -o-linear-gradient(bottom, rgb(255, 255, 255) 24%, rgb(0, 0, 0) 62%);
+  
+ /*   background-image: -o-linear-gradient(bottom, rgb(255, 255, 255) 24%, rgb(0, 0, 0) 62%);
   background-image: -ms-linear-gradient(bottom , ellipse farthest-corner, #febf6d 0%, #f4ceb3 100%);
   background-image: -moz-linear-gradient(bottom , ellipse farthest-corner, #febf6d 0%, #f4ceb3 100%);
   background-image: -o-linear-gradient(bottom , ellipse farthest-corner, #febf6d 0%, #f4ceb3 100%);
   background-image: -webkit-gradient(linear, bottom , 0, bottom , 553, color-stop(0, #febf6d), color-stop(1, #f4ceb3));
   background-image: -webkit-linear-gradient(bottom , ellipse farthest-corner, #febf6d 0%, #f4ceb3 100%);
   background-image: linear-gradient(ellipse farthest-corner at bottom , #febf6d 0%, #f4ceb3 100%);
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;*/
 }
