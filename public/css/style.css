@@ -1,0 +1,48 @@
+/*body {
+  background: white;
+  width: 99%;
+  margin: 120px 200px;
+}*/
+
+h1 {
+  font-family: "Rock Salt"; 
+/*  color: #474346;
+*/  color: #fcf5f0;
+}
+
+h2 {
+  font-family: "Pontano Sans";
+  font-weight: 500;
+  font-size: 1.2em;
+  padding-left: 20px;
+  margin: 10px;
+/*  color: #474346;
+*/  color: white;
+}
+
+h3 {
+  font-family: "Rock Salt";
+  text-align: left;
+  margin: 0;
+  position: relative;
+  padding-left: 30px;
+  color: white;
+  font-size: .8em;
+}
+
+h3.signature {
+  font-size: 2em;
+}
+
+body {
+  margin: 120px 200px;
+  width: 100%;
+  background-image: -o-linear-gradient(bottom, rgb(255, 255, 255) 24%, rgb(0, 0, 0) 62%);
+  background-image: -ms-radial-gradient(bottom right, ellipse farthest-corner, #f6791e 0%, #f4ceb3 100%);
+  background-image: -moz-radial-gradient(bottom right, ellipse farthest-corner, #f6791e 0%, #f4ceb3 100%);
+  background-image: -o-radial-gradient(bottom right, ellipse farthest-corner, #f6791e 0%, #f4ceb3 100%);
+  background-image: -webkit-gradient(radial, bottom right, 0, bottom right, 553, color-stop(0, #f6791e), color-stop(1, #f4ceb3));
+  background-image: -webkit-radial-gradient(bottom right, ellipse farthest-corner, #f6791e 0%, #f4ceb3 100%);
+  background-image: radial-gradient(ellipse farthest-corner at bottom right, #f6791e 0%, #f4ceb3 100%);
+  background-repeat: no-repeat;
+}
