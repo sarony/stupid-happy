@@ -20,7 +20,8 @@ h2 {
   padding-left: 20px;
   margin: 10px;
 /*  color: #474346;
-*/  color: #fdebd4;
+*/ /* color: #fdebd4;*/
+  color: white;
 }
 
 h3 {
@@ -31,6 +32,12 @@ h3 {
   padding-left: 30px;
   color: white;
   font-size: .8em;
+}
+
+img {
+  position: absolute;
+  right: 40%;
+  padding-bottom: 60px;
 }
 
 h3.signature {
